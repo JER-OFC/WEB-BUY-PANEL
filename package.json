@@ -1,0 +1,13 @@
+{
+  "name": "jer-ofc-panel",
+  "version": "1.0.0",
+  "description": "List Harga JER OFC Panel",
+  "main": "index.html",
+  "scripts": {
+    "start": "vercel dev", 
+    "build": "echo 'Nothing to build'"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
